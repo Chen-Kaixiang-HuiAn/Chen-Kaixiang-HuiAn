@@ -4,6 +4,8 @@
 
 # 你好，我是陈恺翔 👋
 
+[**English**](README.md) | **简体中文**
+
 <a href="mailto:conshein_yuanxing@outlook.com">
   <img src="https://img.shields.io/badge/邮箱-0078D4?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/>
 </a>

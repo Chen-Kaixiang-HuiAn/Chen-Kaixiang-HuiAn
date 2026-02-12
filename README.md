@@ -4,6 +4,8 @@
 
 # Hi there, I'm Kaixiang Chen 👋
 
+**English** | [**简体中文**](README_zh.md)
+
 <a href="mailto:conshein_yuanxing@outlook.com">
   <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/>
 </a>
