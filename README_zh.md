@@ -134,9 +134,9 @@ International Conference on Mechatronics and Smart Systems (MSS 2023)
 
 <div align="center">
 
-<img src="https://github-readme-stats-chen-kaixiang-huian.vercel.app/api?username=Chen-Kaixiang-HuiAn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats-chen-kaixiang-huians-projects.vercel.app/api?username=Chen-Kaixiang-HuiAn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
 
-<img src="https://github-readme-stats-chen-kaixiang-huian.vercel.app/api/top-langs/?username=Chen-Kaixiang-HuiAn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+<img src="https://github-readme-stats-chen-kaixiang-huians-projects.vercel.app/api/top-langs/?username=Chen-Kaixiang-HuiAn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
 
 </div>
 
