@@ -135,10 +135,10 @@ International Conference on Mechatronics and Smart Systems (MSS 2023)
 <div align="center">
 
 <!-- 连续贡献 -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Chen-Kaixiang-HuiAn&theme=github&hide_border=true" alt="Streak Stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Chen-Kaixiang-HuiAn&theme=github&hide_border=true" alt="Streak Stats" width="100%"/>
 
 <!-- 统计卡片 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chen-Kaixiang-HuiAn&theme=github&hide_border=true" alt="Stats Card" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chen-Kaixiang-HuiAn&theme=github&hide_border=true" alt="Stats Card" width="100%"/>
 
 </div>
 
