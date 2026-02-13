@@ -161,7 +161,9 @@ International Conference on Mechatronics and Smart Systems (MSS 2023)
 
 <div align="center">
 
-**感谢访问！欢迎联系我进行学术交流或聊聊机器人技术！🤖**
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=000000&center=true&width=450&lines=感谢访问!;欢迎联系我进行学术交流!;一起聊聊机器人技术!🤖" alt="Typing SVG" />
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=Chen-Kaixiang-HuiAn&color=blue&style=flat-square&label=访问量" alt="Profile Views"/>
 

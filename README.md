@@ -160,7 +160,9 @@ International Conference on Mechatronics and Smart Systems (CONF-MSS 2023)
 
 <div align="center">
 
-**Thanks for visiting! Feel free to reach out for collaboration or just a chat about robotics! 🤖**
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=000000&center=true&width=450&lines=Thanks+for+visiting!;Feel+free+to+reach+out!;Let's+collaborate+on+robotics!🤖" alt="Typing SVG" />
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=Chen-Kaixiang-HuiAn&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
