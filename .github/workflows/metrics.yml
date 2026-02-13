@@ -21,12 +21,14 @@ jobs:
           config_display: large
 
           plugin_languages: yes
+          plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
+          plugin_languages_categories: markup, programming, data, prose
           plugin_languages_colors: github
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_details: bytes-size, percentage, lines
           plugin_languages_limit: 0
-          plugin_languages_sections: recently-used
+          plugin_languages_sections: most-used
+          plugin_languages_other: yes
           repositories_affiliations: owner, collaborator, organization_member
 
           plugin_calendar: yes
