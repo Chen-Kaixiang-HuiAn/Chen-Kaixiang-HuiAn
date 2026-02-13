@@ -156,7 +156,7 @@ International Conference on Mechatronics and Smart Systems (CONF-MSS 2023)
 ---
 
 <div align="center">
-a
+
 **Thanks for visiting! Feel free to reach out for collaboration or just a chat about robotics! 🤖**
 
 <img src="https://komarev.com/ghpvc/?username=Chen-Kaixiang-HuiAn&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
