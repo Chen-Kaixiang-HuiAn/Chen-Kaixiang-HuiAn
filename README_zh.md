@@ -28,7 +28,7 @@
 
 🎓 **学历：** 工学学士 @ 重庆大学
 
-💼 **当前状态：** 五金店店主
+💼 **当前状态：** 五金店店主，[远行工作室](https://excursion-studio.github.io/?lang=zh)主理人
 
 </td>
 <td width="50%">

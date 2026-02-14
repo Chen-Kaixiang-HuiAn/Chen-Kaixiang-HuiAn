@@ -28,7 +28,7 @@
 
 🎓 **Education:** B.Eng. in Mechatronics @ Chongqing University
 
-💼 **Current:** Hardware Storekeeper
+💼 **Current:** Hardware Storekeeper, Propriator of [Excursion Studio](https://excursion-studio.github.io/?lang=en)
 
 </td>
 <td width="50%">
