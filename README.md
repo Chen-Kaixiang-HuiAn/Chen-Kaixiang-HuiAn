@@ -135,38 +135,13 @@ International Conference on Mechatronics and Smart Systems (CONF-MSS 2023)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 137.8 kB Used in GitHub's Storage 
- > 
-> 🏆 107 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-🌆 Daytime                112 commits         ███████░░░░░░░░░░░░░░░░░░   29.24 % 
-🌃 Evening                181 commits         ████████████░░░░░░░░░░░░░   47.26 % 
-🌙 Night                  45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Tuesday                  27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Wednesday                29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Thursday                 46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Friday                   110 commits         ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-Saturday                 60 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Sunday                   60 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+🌞 Morning                45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+🌆 Daytime                112 commits         ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+🌃 Evening                184 commits         ████████████░░░░░░░░░░░░░   47.67 % 
+🌙 Night                  45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
 ```
 
 
@@ -177,32 +152,13 @@ Sunday                   60 commits          ████░░░░░░░�
 
 💬 Programming Languages: 
 No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
 ```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     4 repos             █████████████████░░░░░░░░   66.67 % 
-JavaScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Chen-Kaixiang-HuiAn/Chen-Kaixiang-HuiAn/main/assets/bar_graph.png)
 
 
- Last Updated on 14/02/2026 14:22:23 UTC
 <!--END_SECTION:waka-->
 
 ---
