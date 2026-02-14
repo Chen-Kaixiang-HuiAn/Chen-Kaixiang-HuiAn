@@ -128,16 +128,6 @@ International Conference on Mechatronics and Smart Systems (MSS 2023)
 | 2022 | 🥉 三等奖学金 | 机械与运载工程学院，重庆大学 |
 | 2022 | 🏅 深度学习组优秀奖 | 重庆大学智能汽车竞赛 |
 
----
-
-### 📊 编码统计
-
-<!-- WakaTime 代码统计 - 由 GitHub Actions 自动生成 -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ### 📫 联系方式
 
 <div align="center">

@@ -129,21 +129,6 @@ International Conference on Mechatronics and Smart Systems (CONF-MSS 2023)
 
 ---
 
-### 📊 Coding Stats
-
-<!-- WakaTime 代码统计 - 由 GitHub Actions 自动生成 -->
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
----
-
 ### 📫 Let's Connect
 
 <div align="center">
