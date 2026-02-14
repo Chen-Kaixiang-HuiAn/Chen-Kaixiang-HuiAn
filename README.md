@@ -133,31 +133,12 @@ International Conference on Mechatronics and Smart Systems (CONF-MSS 2023)
 
 <!-- WakaTime 代码统计 - 由 GitHub Actions 自动生成 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-**I'm a Night 🦉** 
+```txt
+Total Time: 0 secs
 
-```text
-🌞 Morning                45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-🌆 Daytime                112 commits         ███████░░░░░░░░░░░░░░░░░░   29.02 % 
-🌃 Evening                184 commits         ████████████░░░░░░░░░░░░░   47.67 % 
-🌙 Night                  45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+No activity tracked
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Chen-Kaixiang-HuiAn/Chen-Kaixiang-HuiAn/main/assets/bar_graph.png)
-
 
 <!--END_SECTION:waka-->
 
