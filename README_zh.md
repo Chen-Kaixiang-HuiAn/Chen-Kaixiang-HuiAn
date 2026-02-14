@@ -130,14 +130,11 @@ International Conference on Mechatronics and Smart Systems (MSS 2023)
 
 ---
 
-### 📊 GitHub 统计
+### 📊 编码统计
 
-<div align="center">
-
-<!-- GitHub Actions 自动生成的统计卡片 -->
-<img src="./metrics/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
-
-</div>
+<!-- WakaTime 代码统计 - 由 GitHub Actions 自动生成 -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
