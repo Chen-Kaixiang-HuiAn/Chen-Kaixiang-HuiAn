@@ -95,7 +95,7 @@
 
 *K. Chen*
 
-International Conference on Mechatronics and Smart Systems (MSS 2023)
+**会议** International Conference on Mechatronics and Smart Systems (MSS 2023)
 
 <a href="https://dx.doi.org/10.54254/2755-2721/9/20230018">
   <img src="https://img.shields.io/badge/论文-10.54254/2755--2721/9/20230018-blue" alt="Paper"/>
