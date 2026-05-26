@@ -34,9 +34,8 @@
 <td width="50%">
 
 🔬 **Research Interests:**
-- Multi-Robot Systems
-- Air-Ground Collaboration
-- Aerial Manipulation
+- Indoor Warehouse AMR
+- Outdoor Air-Ground Collaboration
 
 🏸 **Hobbies:** Badminton
 
